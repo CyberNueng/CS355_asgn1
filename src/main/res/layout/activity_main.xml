@@ -49,8 +49,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_vertical"
                     android:text="@string/txt1"
-                    android:textAlignment="center"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
             </LinearLayout>
 
             <LinearLayout
@@ -83,8 +83,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_vertical"
                     android:text="@string/txt2"
-                    android:textAlignment="center"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
             </LinearLayout>
 
             <LinearLayout
@@ -118,8 +118,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_vertical"
                     android:text="@string/txt3"
-                    android:textAlignment="center"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
             </LinearLayout>
 
             <LinearLayout
@@ -152,8 +152,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_vertical"
                     android:text="@string/txt4"
-                    android:textAlignment="center"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
             </LinearLayout>
 
             <LinearLayout
@@ -187,8 +187,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_vertical"
                     android:text="@string/txt5"
-                    android:textAlignment="center"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
             </LinearLayout>
 
             <LinearLayout
