@@ -31,6 +31,6 @@ public class MainActivity2 extends AppCompatActivity {
         if(age<=15) imgView.setImageResource(R.drawable.young);
         else if(age<=25) imgView.setImageResource(R.drawable.teen);
         else if(age<=60) imgView.setImageResource(R.drawable.working);
-        else imgView.setImageResource(R.drawable.old);
+        else if(age<=150) imgView.setImageResource(R.drawable.old);
     }
 }
